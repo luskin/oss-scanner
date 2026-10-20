@@ -4,8 +4,8 @@ Durabull is a dashboard, HTTP API, desktop application, and remote MCP server fo
 operating BullMQ queues on Redis. It can inspect job payloads, results, logs and
 stack traces, retry/promote jobs, pause queues, manage schedulers, and perform
 destructive queue operations through the web/API surface. A compromise can
-expose production job data or disrupt downstream workers. The repository is
-source-available under Elastic License 2.0; it is not OSI-approved open source.
+expose production job data or disrupt downstream workers. The code on the
+repository's main branch is open source under Apache License 2.0; see `LICENSE`.
 
 ## Scope and trust boundaries
 
